@@ -1,0 +1,57 @@
+.about-us{min-height: 300px;
+border: 1px solid #f5f5f5;
+}
+.res-bio-pic{
+    width: 100%;
+}
+
+.res-bio-pic-cols{
+    padding: 97px;
+}
+.pic-card{
+    position: relative;
+}
+.text-block {
+    position: absolute;
+    bottom: 46px;
+    right: 15px;
+    background-color: #fff;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0.70;
+  }
+  .card-description{
+      padding: 6px;
+  }
+  @media screen and (min-width: 480px) {
+    .image-set {
+        padding-bottom: 5px;
+        
+    }
+  }
+  .barcode-col{
+    border-left: 1px solid #eaebeb;
+  }
+
+  .popular-item-content{
+    padding: 15px 15px 15px !important;
+  }
+.item-buttons{
+  height: 40px;
+}
+.food-item-wrap h5 a {
+  color: #25282b;
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.f-restaurant{
+  padding: 30px 0 20px !important;
+}
+.border-none{
+  border: none !important;
+}
+.barcode-img{
+  max-width: 300px;
+}

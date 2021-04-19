@@ -1,0 +1,43 @@
+
+.signup {
+	width: 320px;
+	margin: auto;
+}
+@media screen and (min-width: 480px) {
+    .signup {
+        width: 400px;
+        margin: auto;
+    }
+  }
+
+.mobile-row {
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+}
+.mobile-label {
+	margin-right: 19px;
+	display: flex;
+}
+.signup-input {
+	height: 55px;
+}
+.signup-header {
+    padding: 10px;
+    margin-bottom: 55px;
+    background-color: #f30;
+    border-radius: 14px;
+}
+.submit-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup-bg{
+    background: none !important;
+   
+}
+.signup-container{
+    padding-top: 2%;
+    min-height: 580px;
+}

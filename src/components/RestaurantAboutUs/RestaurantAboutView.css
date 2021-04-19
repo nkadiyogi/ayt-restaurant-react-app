@@ -1,0 +1,32 @@
+.des-text{
+    padding-top: 20px;
+}
+.lead-text{
+    margin-top: 10px;
+}
+.about-bg-img{
+    padding-top: 50px;
+}
+
+.single-cool-fact{
+    position: relative;
+    text-align: center;
+    z-index: 1;
+    margin-bottom: 80px;
+}
+.single-cool-fact img {
+    display: block;
+    margin: 0 auto 10px;
+}
+.single-cool-fact h3 {
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: #40ba37;
+    font-weight: 700;
+}
+.product-made{
+padding-top: 90px;
+}
+.last-text{
+ width: 80%;   
+}

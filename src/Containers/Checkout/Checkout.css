@@ -1,0 +1,56 @@
+.account-heading {
+	padding: 3px;
+	margin-bottom: 15px;
+}
+.account-head-text {
+	font-size: 38px;
+}
+.addresses-bar {
+	overflow-x: auto;
+	width: 100%;
+	overflow-y: hidden;
+}
+
+.checkout-login-btn {
+	width: 174px;
+	border-radius: 0;
+	background: none;
+	border: 1px solid green;
+	padding: 6px 25px;
+	color: green;
+}
+
+.checkout-login-btn:hover {
+	box-shadow: 0 6px 9px #d4d5d9;
+}
+.checkout-sign-btn {
+	border-radius: 0;
+	width: 174px;
+	background: green;
+	border: 1px solid green;
+	padding: 6px 25px;
+	color: white;
+}
+
+.checkout-sign-btn:hover {
+	box-shadow: 0 6px 9px #d4d5d9;
+}
+.check-btn-content{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.checkout-bg{
+	background: #e9ecee;
+}
+.table-time{
+	padding: 2px 8px;
+			border-radius: 5px;
+			background: #ffd3c8;
+			margin: 4px;
+}
+.table-time-col{
+	display: flex;
+    flex-wrap: wrap;
+}

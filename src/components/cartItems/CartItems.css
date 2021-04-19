@@ -1,0 +1,11 @@
+.btn-quantity {
+	width: 45px;
+}
+.cart-scroll {
+	max-height: 300px !important;
+}
+.tableNo {
+	background: #f30;
+	border: 1px solid red;
+	border-radius: 2px;
+}

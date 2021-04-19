@@ -1,0 +1,47 @@
+.category-list {
+	display: none;
+}
+.category-select {
+	display: block;
+}
+.order-cart{
+	display: none;
+}
+.order-page-banner{
+	display: none;
+}
+.search-food{
+	display: block;
+}
+.custom-header{
+	padding: 6px 6px 6px !important;
+}
+.input-search{
+	padding: 7px !important;
+}
+@media only screen and (min-width: 490px) {
+	/* For mobile phones: */
+	.category-list {
+		display: block;
+	}
+	.category-select {
+		display: none !important;
+	}
+	.order-cart{
+		display: block;
+	}
+	.order-page-banner{
+		display: block;
+	}
+	.search-food{
+		display: none;
+	}
+	.custom-header{
+		padding: 15px 15px 15px !important;
+	}
+}
+
+.res-des{
+position: unset !important;
+width: auto !important;
+}

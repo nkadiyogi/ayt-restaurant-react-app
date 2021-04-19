@@ -1,0 +1,16 @@
+.menu-card{
+    position: relative;
+}
+.text-block {
+    position: absolute;
+    bottom: 46px;
+    right: 15px;
+    background-color: #fff;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0.70;
+  }
+  .card-description{
+      padding: 6px;
+  }

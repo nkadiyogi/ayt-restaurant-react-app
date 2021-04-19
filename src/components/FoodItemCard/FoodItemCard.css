@@ -1,0 +1,17 @@
+.food-img {
+	border-radius: 4px;
+}
+.rupee-sym {
+	margin-right: 3px;
+}
+.rupee-content {
+	margin-right: 4px;
+}
+.btn-quantity {
+	width: 40px;
+	text-align: center;
+}
+.item-btn-control {
+	padding-left: 7px !important;
+	padding-right: 7px !important;
+}

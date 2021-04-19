@@ -1,0 +1,51 @@
+.acount-heading{
+    padding: 25px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.account-container{
+ background: #207398;   
+ padding: 10px 33px 0px 33px;
+}
+
+.account-sub-container{
+    padding: 32px 60px;
+    background-color: white;
+}
+
+.left-nav{
+   
+}
+.left-nav-ul{
+    background-color: #edf1f7;
+}
+.left-nav-ul> li{
+    background-color: #edf1f7;
+    border: 0;
+}
+.li-active{
+    background: white !important;
+    text-decoration: none;
+}
+.edit-profile-btn{
+  width:120px;
+  background: none;
+}
+a,a:hover{
+    text-decoration: none;
+}
+
+@media screen and (max-width: 480px) {
+    .account-container {
+       padding: 10px 2px 0px 2px;
+    }
+    .account-sub-container{
+        padding: 32px 3px;
+    }
+    .left-nav-ul{
+        padding: 2px !important;
+        padding-right: 1.5rem!important
+    }
+
+}

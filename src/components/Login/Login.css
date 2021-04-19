@@ -1,0 +1,37 @@
+.login {
+	width: 320px;
+	margin: auto;
+    padding: 20px;
+}
+@media screen and (min-width: 480px) {
+    .login {
+        width: 400px;
+        margin: auto;
+    }
+  }
+
+.mobile-row {
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+}
+.mobile-label {
+	margin-right: 19px;
+	display: flex;
+}
+.login-input {
+	height: 55px;
+}
+.login-header {
+    padding: 10px;
+    margin-bottom: 55px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+}
+.login-buttons{
+    display: flex;
+}
+.login-container{
+    padding-top: 7%;
+    min-height: 580px;
+}

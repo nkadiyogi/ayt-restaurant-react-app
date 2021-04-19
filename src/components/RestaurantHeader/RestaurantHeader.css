@@ -1,0 +1,14 @@
+.dropbtn:hover{
+    background :rgb(0, 0, 6);
+}
+.profile-logo{
+    border-radius: 50% !important;
+    height: 35px !important;
+    width: 35px;
+}
+.res-link-active{
+    border-bottom: 1px solid tomato;
+}
+.user-acc-link{
+    padding-bottom: 5px;
+}

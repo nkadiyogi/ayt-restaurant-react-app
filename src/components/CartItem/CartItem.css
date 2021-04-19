@@ -1,0 +1,19 @@
+.cart-item-controls{
+    margin-top: 10px;
+}
+.cart-controls{
+    padding-top: 0 !important;
+}
+@media only screen and (min-width: 490px) {
+    /* for mobile */
+	.cart-item-controls{
+        margin-top: 0px;
+    }
+    .cart-controls{
+        padding-top: 1.5rem !important;
+    }
+}
+.product-img{
+    height: 80px !important;
+    width: 80px !important;
+}

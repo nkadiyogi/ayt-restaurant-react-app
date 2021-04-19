@@ -1,0 +1,24 @@
+.fJrjep {
+    padding: 12px;
+    padding-right: 40px;
+}
+.hSYRTq {
+    border-radius: 0.6rem;
+    cursor: pointer;
+}
+.gOXjOA {
+    width: 261px;
+    height: 100%;
+    overflow: hidden;
+}
+.khyrTc {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: none;
+    opacity: 1;
+    will-change: transform, opacity;
+    border-radius: inherit;
+    filter: brightness(0.95);
+    transition: transform 0.4s ease-in-out 0s, filter 0.4s ease 0s, opacity 0.25s ease 0s;
+}

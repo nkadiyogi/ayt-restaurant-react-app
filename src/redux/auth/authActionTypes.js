@@ -1,0 +1,16 @@
+export const FETCH_USERS_REQUEST = 'FETCH_USERS_REQUEST'
+export const FETCH_USERS_SUCCESS = 'FETCH_USERS_SUCCESS'
+export const FETCH_USERS_FAILURE = 'FETCH_USERS_FAILURE'
+
+export const LOGIN_REQUEST_FAILED = '/user/LOGIN_FAILED';
+export const LOGIN_REQUEST = '/user/LOGIN_REQUEST';
+export const LOGIN_REQUEST_SUCCESS = '/user/LOGIN_SUCCESS';
+
+export const LOGIN_OTP_VERIFED_SUCCESS = '/user/LOGIN_OTP_VERIFED_SUCCESS';
+export const LOGIN_OTP_VERIFI_REQUEST = '/user/LOGIN_OTP_VERIFI_REQUEST';
+
+export const LOG_OUT = '/user/log_out';
+
+export const SIGNUP_FAILED = '/user/SIGNUP_FAILED';
+export const SIGNUP_REQUEST = '/user/SIGNUP_REQUEST';
+export const SIGNUP_SUCCESS = '/user/SIGNUP_SUCCESS';

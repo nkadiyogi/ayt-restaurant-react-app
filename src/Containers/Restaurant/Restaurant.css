@@ -1,0 +1,20 @@
+.sticky-cart-button {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    padding: 16px;
+    width: 100%;
+    z-index: 200;
+}
+
+@media only screen and (min-width: 490px) {
+  /* for mobile */
+.sticky-cart-button{
+  position: fixed;
+  bottom: 3px;
+  right: 3px;
+  padding: 16px;
+  border-radius: 4px;
+  width: auto;
+  }
+}
